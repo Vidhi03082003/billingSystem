@@ -1,0 +1,65 @@
+table{
+    margin-bottom: 20px;
+    border: 1px solid white;
+    background: gray;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+input{
+    border-radius: 10px;
+    font-size: large;
+}
+
+td{
+    padding: 5px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+label{
+    color: white;
+    font-size: large;
+}
+
+body{
+    background-color: rgb(211, 203, 203);
+}
+
+th,tbody,h1,h3{
+    color: white;
+}
+
+.main{
+    background-color:rgb(158, 154, 154) ;
+    display: flex;
+    height: 300px;
+    width: 800px;
+    padding: 40px;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.imageDiv{
+    padding: 90px;
+    padding-top: 7px;
+}
+
+#billTable{
+    margin-top: 20px;
+}
+
+img{
+    height: 270px;
+    border-radius: 4px;
+}
+
+button{
+    background-color: white;
+    color: gray;
+}
